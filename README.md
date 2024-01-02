@@ -125,12 +125,12 @@
 </details>
 </ol>
 
+<ol>
+<details>
+<summary>day5 (231228)</summary>
+
 ## Part2. 기초로봇공학
 
-<ol>
-<details open>
-<summary>day5 (231228)</summary>
-    
 ### 1. 로봇학 개론
 
     - 아시모프의 로봇 3원칙
@@ -192,6 +192,14 @@
     
 </details>
 </ol>
+<ol>
+<details open>
+<summary>day6 (231229)</summary>
 
+## Part3. 아두이노 - C언어
+    - 회로연결 시, 하나의 회로라면, 소자가 몇개든, Ground는 무조건 한 개여야 한다.
+
+</details>
+</ol>
 
 </details>
