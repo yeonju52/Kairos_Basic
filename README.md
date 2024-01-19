@@ -198,7 +198,7 @@
 
 ## Part3. 아두이노 - C언어
     - 회로연결 시, 하나의 회로라면, 소자가 몇개든, Ground는 무조건 한 개여야 한다.
-
+    - Interrupt Pin = 2번 핀
 </details>
 </ol>
 
