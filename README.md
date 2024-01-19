@@ -202,4 +202,8 @@
 </details>
 </ol>
 
+
+## Partn. 밸런싱 로봇
+- 자이로센서: mpu 6050
+    - dmp 기능 이용하기 위해 두 개의 아두이노 라이브러리 clone ([MPU_6050](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050), [I2CDev](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/I2Cdev))
 </details>
